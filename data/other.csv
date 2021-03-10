@@ -1,0 +1,452 @@
+name,gender,wikidata,type
+"Aire d'Orival Total Nivelles",,,way
+"Allée Albert Caupain",,,way
+"Allée Arthur Masson",,,way
+"Allée Bonaparte",,,way
+"Allée Fonds Avaux",,,relation
+"Allée Franz Dewandelaer",,,way
+"Allée Jack Gondry",,,way
+"Allée Johannes Tinctoris",,,way
+"Allée Le Valois",,,relation
+"Allée Marcel Ladrière",,,way
+"Allée Marie Binet Leton",,,way
+"Allée Mont Cheval",,,way
+"Allée Moulin des Prés",,,way
+"Allée Pré Lorette",,,way
+"Allée Pré au Lait",,,way
+"Allée Ursmar Scohy",,,way
+"Allée Willy Chauffoureau",,,way
+"Allée de Warchimont",,,way
+"Allée de l'Ancienne Barrière",,,way
+"Allée de la Cense du Colombier",,,way
+"Allée de la Ferme Detry",,,way
+"Allée de la Fragne",,,way
+"Allée de la Relevée",,,way
+"Allée de la Tour Renard",,,way
+"Allée de la Tourette",,,way
+"Allée de la Tramontane",,,way
+"Allée des Alouettes",,,way
+"Allée des Aubépines",,,way
+"Allée des Bleuets",,,relation
+"Allée des Bouvreuils",,,way
+"Allée des Chambourées",,,relation
+"Allée des Coquelicots",,,relation
+"Allée des Couterelles",,,way
+"Allée des Eglantines",,,relation
+"Allée des Grenadiers",,,way
+"Allée des Grives",,,way
+"Allée des Liserons",,,relation
+"Allée des Merles",,,way
+"Allée des Mésanges",,,way
+"Allée des Muguets",,,relation
+"Allée des Pinsons",,,way
+"Allée des Primevères",,,relation
+"Allée des Roses",,,relation
+"Allée des Rouges-Gorges",,,way
+"Allée des Sources",,,way
+"Allée des Trois Tilleuls",,,relation
+"Allée du Broc-a-l'Aye",,,way
+"Allée du Coulombier",,,way
+"Allée du Franc Etau",,,way
+"Allée du Jaquemart",,,way
+"Allée du Long Fétue",,,relation
+"Allée du Ploche",,,way
+"Allée du Posty",,,way
+"Allée du Sablon",,,way
+"Allée du Spinoit",,,way
+"Avenue Abbé Goffin",,,way
+"Avenue Albert et Elisabeth",,,way
+"Avenue Alcide de Gasperi",,,way
+"Avenue Général Jacques",,,way
+"Avenue Jean Monnet",,,way
+"Avenue Jules Mathieu",,,way
+"Avenue Konrad Adenauer",,,way
+"Avenue Léon Jeuniaux",,,way
+"Avenue Paul-Henri Spaak",,,way
+"Avenue Robert Schuman",,,way
+"Avenue Thomas Edison",,,way
+"Avenue Trigodet",,,way
+"Avenue d'Allemagne",,,way
+"Avenue d'Italie",,,way
+"Avenue de Burlet",,,way
+"Avenue de France",,,way
+"Avenue de Vaillampont",,,way
+"Avenue de l'Aviation",,,way
+"Avenue de l'Europe",,,way
+"Avenue de la Gare",,,relation
+"Avenue de la Liberté",,,relation
+"Avenue de la Tour de Guet",,,way
+"Avenue des Pays-Bas",,,way
+"Avenue du Centenaire",,,way
+"Avenue du Monde",,,way
+"Boulevard Charles Vanpée",,,way
+"Boulevard de la Batterie",,,way
+"Boulevard de la Dodaine",,,way
+"Boulevard de la Fleur de lys",,,way
+"Boulevard de la Résistance",,,relation
+"Boulevard des Arbalétriers",,,way
+"Boulevard des Archers",,,way
+"Chaussée de Braine-le-Comte",,,way
+"Chaussée de Bruxelles",,,way
+"Chaussée de Charleroi",,,way
+"Chaussée de Hal",,,way
+"Chaussée de Mons",,,way
+"Chaussée de Namur",,,way
+"Chaussée de Nivelles",,,way
+"Chaussée de Soignies",,,way
+"Chaussée de Wavre",,,way
+"Chemin Barbette",,,way
+"Chemin Bon Air",,,way
+"Chemin Coparty",,,way
+"Chemin Crinquaille",,,way
+"Chemin Ducal",,,way
+"Chemin Fourneau",,,way
+"Chemin Haneliquet",,,way
+"Chemin Hiernoulet",,,way
+"Chemin Laid Patard",,,way
+"Chemin Maxile",,,way
+"Chemin Pécrot",,,way
+"Chemin Royal",,,way
+"Chemin Saint-Pierre",,,way
+"Chemin Sainte-Anne",,,way
+"Chemin Wellington",,,way
+"Chemin d'Arquennes",,,way
+"Chemin d'Orival",,,way
+"Chemin de Baudémont",,,way
+"Chemin de Bornival",,,way
+"Chemin de Fauquez",,,way
+"Chemin de Feluy",,,way
+"Chemin de Fontaine-L'Evêque",,,way
+"Chemin de Fontaine-l'Evêque",,,way
+"Chemin de Grambais",,,way
+"Chemin de Grambais à Bornival",,,way
+"Chemin de Grand'Peine",,,way
+"Chemin de Monstreux",,,way
+"Chemin de Montifaut",,,way
+"Chemin de Rèves",,,way
+"Chemin de Ronquières",,,way
+"Chemin de Spilmont",,,way
+"Chemin de Stoisy",,,way
+"Chemin de Thines",,,way
+"Chemin de Wavre",,,way
+"Chemin de Witterzee",,,way
+"Chemin de l'Agneau",,,way
+"Chemin de l'Ange Gardien",,,way
+"Chemin de l'Ardenelle",,,way
+"Chemin de l'Escavée",,,way
+"Chemin de la Biloche",,,way
+"Chemin de la Brassine",,,way
+"Chemin de la Croix Hayette",,,way
+"Chemin de la Guenette",,,way
+"Chemin de la Paix",,,way
+"Chemin de la Procession",,,way
+"Chemin de la Technique",,,way
+"Chemin de la Vieille Cour",,,way
+"Chemin de la Vieille cour",,,way
+"Chemin des Coutures",,,way
+"Chemin des Hayons",,,way
+"Chemin du Berger",,,way
+"Chemin du Bois",,,way
+"Chemin du Château",,,way
+"Chemin du Clerc",,,way
+"Chemin du Foriest",,,way
+"Chemin du Gendarme",,,way
+"Chemin du Grand Bailli",,,way
+"Chemin du Haut Puison",,,way
+"Chemin du Hulencourt",,,way
+"Chemin du Hututu",,,way
+"Chemin du Malgras",,,way
+"Chemin du Mont-Saint-Roch",,,way
+"Chemin du Petit Gendarme",,,way
+"Chemin du Rat de Bois",,,way
+"Chemin du Trou de Bois",,,way
+"Chemin du Trou du Bois",,,way
+"Chemin du grand Bailli",,,way
+"Clos Aglane de Nivelles",,,way
+"Clos Sainte-Gertrude",,,way
+"Clos Tilaine",,,way
+"Clos des Pommiers",,,way
+"Clos du Moulin de Godron",,,way
+"Contournement Sud",,,way
+"Faubourg Saint Anne",,,way
+"Faubourg de Bruxelles",,,way
+"Faubourg de Charleroi",,,way
+"Faubourg de Mons",,,way
+"Faubourg de Namur",,,way
+"Faubourg de Soignies",,,way
+Ferdinand-Delcroix,,,way
+"Grand Place",,,way
+Grand'Route,,,way
+"Hameau des Wailles",,,way
+"Hameau du Bois du Sépulchre",,,way
+"Impasse Comptoir",,,way
+"Impasse de la Grosse Pompe",,,way
+"Impasse de la Madeleine",,,way
+"Impasse de la Porte Rouge",,,way
+"Impasse des Conceptionnistes",,,way
+"Impasse du Baiwy",,,way
+"Impasse du Jardin Rompu",,,way
+"La Carolorégienne",,,way
+"La Rochelle (Faubourg de Mons)",,,way
+"Les 24 Apas",,,way
+"Les Heures Claires",,,way
+"Les Huttes",,,way
+"Parvis Notre-Dame",,,way
+"Place Albert 1er",,,way
+"Place Émile de Lalieux",,,way
+"Place Jean Rey",,,way
+"Place Lambert Schiffelers",,,way
+"Place Peduzzi",,,way
+"Place de Baulers",,,way
+"Place de Thines",,,way
+"Place des Déportés",,,way
+"Place du Souvenir",,,way
+"Pont endommagé - Réparations prévues prochainement",,,way
+"PreRAVEL Ligne 141",,,way
+"RAVEL Ligne 141",,,way
+"RAVeL L141",,,way
+"RAVeL Ligne 141",,,way
+"Route de Lillois",,,way
+"Rue Abbé Michel Renard",,,way
+"Rue Altiero Spinelli",,,way
+"Rue Alzémont",,,way
+"Rue Auguste Lévéque",,,way
+"Rue Barbette",,,way
+"Rue Bayard",,,way
+"Rue Bléval",,,way
+"Rue Bois d'En Bas",,,way
+"Rue Bois d'en Bas",,,way
+"Rue Boulvint",,,way
+"Rue Buisson aux Loups",,,way
+"Rue Cardinal Mercier",,,way
+"Rue Castelain",,,way
+"Rue Chambille",,,way
+"Rue Cité Jardin",,,way
+"Rue Clarisse",,,way
+"Rue Coparty",,,way
+"Rue Coquerne",,,way
+"Rue Croix de Lorraine",,,way
+"Rue Dangonau",,,way
+"Rue Delfosse",,,way
+"Rue Demulder",,,way
+"Rue Emile Vandervelde",,,way
+"Rue Evrard Tricot",,,way
+"Rue Félicien Canart",,,way
+"Rue Ferdinand Delcroix",,,way
+"Rue Fidèle Lebon",,,way
+"Rue Fief de Rognon",,,way
+"Rue Fontaine Michaux",,,relation
+"Rue François Lebon",,,way
+"Rue Général Leman",,,way
+"Rue George Williame",,,way
+"Rue Gillard-Heppe",,,way
+"Rue Graham Bell",,,way
+"Rue Henri Pauwels",,,way
+"Rue Henri Tombeur",,,way
+"Rue Hubert Lebon",,,way
+"Rue Johannes Gutenberg",,,way
+"Rue Joseph Luns",,,way
+"Rue Joseph Wauters",,,way
+"Rue Lagasse",,,way
+"Rue Laurent Delvaux",,,way
+"Rue Les Bois",,,way
+"Rue Longue Bouteille",,,way
+"Rue Lossignol",,,way
+"Rue Louis Braille",,,way
+"Rue Lucien Gilbert",,,way
+"Rue Malgré Madame",,,relation
+"Rue Marlet",,,way
+"Rue Maubille",,,relation
+"Rue Maurice Faure",,,way
+"Rue Monseigneur Cardijn",,,way
+"Rue Montagne du Parc",,,way
+"Rue Neuve",,,way
+"Rue Octave Grillaert",,,way
+"Rue Octave Sanspoux",,,way
+"Rue Paquette",,,way
+"Rue Paul Collet",,,way
+"Rue Roblet",,,way
+"Rue Saint-André",,,way
+"Rue Saint-Georges",,,way
+"Rue Saint-Jacques",,,way
+"Rue Saint-Jean",,,way
+"Rue Sainte-Anne",,,way
+"Rue Sainte-Barbe",,,way
+"Rue Sainte-Gertrude",,,way
+"Rue Samiette",,,way
+"Rue Seutin",,,way
+"Rue Solidarnosc",,,way
+"Rue Théodore Bertels",,,way
+"Rue Tienne à Deux Vallées",,,way
+"Rue Vital Rousseau",,,way
+"Rue Warichet",,,way
+"Rue al'Gaille",,,way
+"Rue aux Cailloux",,,way
+"Rue aux Loups",,,way
+"Rue aux Souris",,,way
+"Rue d'Amsterdam",,,way
+"Rue d'Ittre",,,way
+"Rue de Berlin",,,way
+"Rue de Bornival",,,way
+"Rue de Bratislava",,,way
+"Rue de Bruxelles",,,way
+"Rue de Bucarest",,,way
+"Rue de Budapest",,,way
+"Rue de Charleroi",,,way
+"Rue de Chaumont",,,way
+"Rue de Copenhague",,,way
+"Rue de Dinant",,,way
+"Rue de Dublin",,,way
+"Rue de Hal",,,way
+"Rue de Helsinki",,,way
+"Rue de Lisbonne",,,way
+"Rue de Mons",,,way
+"Rue de Monstreux",,,way
+"Rue de Namur",,,way
+"Rue de Nivelles",,,way
+"Rue de Paris",,,way
+"Rue de Plancenoit",,,way
+"Rue de Prague",,,way
+"Rue de Riga",,,way
+"Rue de Rome",,,way
+"Rue de Saintes",,,way
+"Rue de Sofia",,,way
+"Rue de Soignies",,,way
+"Rue de Sotriamont",,,way
+"Rue de Stockholm",,,way
+"Rue de Tallinn",,,way
+"Rue de Varsovie",,,way
+"Rue de Vienne",,,way
+"Rue de Vilnius",,,way
+"Rue de Zagreb",,,way
+"Rue de l'Ange",,,way
+"Rue de l'Aquilon",,,way
+"Rue de l'Archiduc",,,way
+"Rue de l'Argayon",,,way
+"Rue de l'Artisanat",,,way
+"Rue de l'Athénée",,,way
+"Rue de l'Église",,,way
+"Rue de l'Enfant",,,way
+"Rue de l'Enseignement",,,way
+"Rue de l'Erable",,,way
+"Rue de l'Ermitage",,,relation
+"Rue de l'Espautôle",,,way
+"Rue de l'Étuve",,,way
+"Rue de l'Euros",,,way
+"Rue de l'Évêché",,,way
+"Rue de l'Industrie",,,way
+"Rue de l'inrad'ji",,,way
+"Rue de la Brique",,,way
+"Rue de la Briqueterie",,,way
+"Rue de la Brise",,,way
+"Rue de la Caille",,,way
+"Rue de la Croix Gabriel",,,way
+"Rue de la Croix de Malte",,,way
+"Rue de la Ferme du Chapitre",,,way
+"Rue de la Fonderie",,,way
+"Rue de la Maillebotte",,,way
+"Rue de la Maîtrise",,,way
+"Rue de la Procession",,,way
+"Rue de la Recherche",,,way
+"Rue de la Religion",,,way
+"Rue de la Science",,,way
+"Rue de la Tournette",,,way
+"Rue de la Violette",,,way
+"Rue de la procession",,,way
+"Rue des Alizés",,,way
+"Rue des Arts",,,way
+"Rue des Brasseurs",,,way
+"Rue des Canonniers",,,way
+"Rue des Choraux",,,way
+"Rue des Combattants",,,way
+"Rue des Conceptionnistes",,,way
+"Rue des Coquelets",,,way
+"Rue des Déportés",,,way
+"Rue des Deux Sociétés Nationales",,,relation
+"Rue des Frères Grislein",,,way
+"Rue des Frères Pierseaux",,,way
+"Rue des Guillemins",,,way
+"Rue des Hautes Hurées",,,way
+"Rue des Hirondelles",,,way
+"Rue des Juifs",,,way
+"Rue des Lilas",,,relation
+"Rue des Métiers",,,way
+"Rue des Palettes",,,way
+"Rue des Pêcheurs",,,way
+"Rue des Poulées",,,way
+"Rue des Prêtres",,,way
+"Rue des Récollets",,,way
+"Rue des Roitelets",,,way
+"Rue des Saules",,,way
+"Rue des Vertes Haies",,,way
+"Rue des Vieilles Prisons",,,way
+"Rue des écoles",,,way
+"Rue du Béguinage",,,way
+"Rue du Bon Air",,,way
+"Rue du Bosquet",,,way
+"Rue du Caurus",,,way
+"Rue du Centenaire",,,way
+"Rue du Centre",,,way
+"Rue du Châtaignier",,,way
+"Rue du Chêne",,,way
+"Rue du Cheval Godet",,,way
+"Rue du Cimetière",,,way
+"Rue du Commerce",,,way
+"Rue du Coq",,,way
+"Rue du Culot",,,way
+"Rue du Cura",,,way
+"Rue du Déversoir",,,way
+"Rue du Fonteneau",,,way
+"Rue du Franc Étau",,,way
+"Rue du Géant",,,way
+"Rue du Gendarme",,,way
+"Rue du Happart",,,way
+"Rue du Haubergeon",,,way
+"Rue du Levant",,,way
+"Rue du Merly",,,way
+"Rue du Messager d'Anvers",,,way
+"Rue du Mistral",,,way
+"Rue du Mont Saint-Roch",,,way
+"Rue du Moulin",,,way
+"Rue du Moulin au Bleu",,,way
+"Rue du Palais",,,way
+"Rue du Panier Vert",,,way
+"Rue du Paradis",,,way
+"Rue du Pont Gotissart",,,way
+"Rue du Progrès",,,way
+"Rue du Ri Corbeaux",,,way
+"Rue du Rif tout d'ju",,,way
+"Rue du Septentrion",,,way
+"Rue du Travail",,,way
+"Rue du Trichot",,,way
+"Rue du Vert Baty",,,way
+"Rue du Vert Chasseur",,,way
+"Rue du Vieux Bassin",,,way
+"Rue du Village",,,way
+"Rue du Vivier",,,way
+"Rue du Wichet",,,way
+"Rue du Zéphyr",,,way
+"Rue du moulin au bleu",,,way
+"Rue vas-y-vir",,,way
+"Sentier 32",,,way
+"Sentier de la brique",,,way
+"Sentier des Communes",,,way
+"Sentier des Ecoliers",,,way
+"Sentier du Bois d""en Bas",,,way
+"Sentier n°42",,,way
+"Square Ferdinand Delcroix",,,way
+"Square Gabrielle Petit",,,way
+"Square de l'Yser",,,way
+"Square des Nations Unies",,,relation
+"Venelle Saint-Roch",,,way
+"Venelle des Coquelets",,,way
+"Venelle le Phare",,,way
+"Vert Chemin",,,way
+"Vieux Chemin de Braine-le-Comte",,,way
+"Vieux Chemin de Seneffe",,,way
+"Vieux Chemin de Soignies",,,way
+"Vieux Chemin de Wavre",,,way
+"Vieux chemin de Bruxelles",,,way
+"Vieux chemin de Thines",,,way
+Willambrou,,,way
+"rue de Vilnius",,,way
