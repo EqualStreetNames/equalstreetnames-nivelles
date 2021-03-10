@@ -56,11 +56,7 @@ name,gender,wikidata,type
 "Allée du Spinoit",,,way
 "Avenue Abbé Goffin",,,way
 "Avenue Albert et Elisabeth",,,way
-"Avenue Alcide de Gasperi",,,way
-"Avenue Général Jacques",,,way
-"Avenue Jean Monnet",,,way
 "Avenue Jules Mathieu",,,way
-"Avenue Konrad Adenauer",,,way
 "Avenue Léon Jeuniaux",,,way
 "Avenue Paul-Henri Spaak",,,way
 "Avenue Robert Schuman",,,way
@@ -168,7 +164,6 @@ name,gender,wikidata,type
 "Clos des Pommiers",,,way
 "Clos du Moulin de Godron",,,way
 "Contournement Sud",,,way
-"Faubourg Saint Anne",,,way
 "Faubourg de Bruxelles",,,way
 "Faubourg de Charleroi",,,way
 "Faubourg de Mons",,,way
@@ -257,7 +252,6 @@ Grand'Route,,,way
 "Rue Malgré Madame",,,relation
 "Rue Marlet",,,way
 "Rue Maubille",,,relation
-"Rue Maurice Faure",,,way
 "Rue Monseigneur Cardijn",,,way
 "Rue Montagne du Parc",,,way
 "Rue Neuve",,,way
@@ -272,7 +266,6 @@ Grand'Route,,,way
 "Rue Saint-Jean",,,way
 "Rue Sainte-Anne",,,way
 "Rue Sainte-Barbe",,,way
-"Rue Sainte-Gertrude",,,way
 "Rue Samiette",,,way
 "Rue Seutin",,,way
 "Rue Solidarnosc",,,way
@@ -435,7 +428,6 @@ Grand'Route,,,way
 "Sentier du Bois d""en Bas",,,way
 "Sentier n°42",,,way
 "Square Ferdinand Delcroix",,,way
-"Square Gabrielle Petit",,,way
 "Square de l'Yser",,,way
 "Square des Nations Unies",,,relation
 "Venelle Saint-Roch",,,way
