@@ -1,12 +1,9 @@
 name,gender,wikidata,type
 "Aire d'Orival Total Nivelles",,,way
 "Allée Albert Caupain",,,way
-"Allée Arthur Masson",,,way
 "Allée Bonaparte",,,way
 "Allée Fonds Avaux",,,relation
-"Allée Franz Dewandelaer",,,way
 "Allée Jack Gondry",,,way
-"Allée Johannes Tinctoris",,,way
 "Allée Le Valois",,,relation
 "Allée Marcel Ladrière",,,way
 "Allée Marie Binet Leton",,,way
@@ -60,7 +57,6 @@ name,gender,wikidata,type
 "Avenue Léon Jeuniaux",,,way
 "Avenue Paul-Henri Spaak",,,way
 "Avenue Robert Schuman",,,way
-"Avenue Thomas Edison",,,way
 "Avenue Trigodet",,,way
 "Avenue d'Allemagne",,,way
 "Avenue d'Italie",,,way
@@ -232,22 +228,17 @@ Grand'Route,,,way
 "Rue Fief de Rognon",,,way
 "Rue Fontaine Michaux",,,relation
 "Rue François Lebon",,,way
-"Rue Général Leman",,,way
 "Rue George Williame",,,way
 "Rue Gillard-Heppe",,,way
-"Rue Graham Bell",,,way
 "Rue Henri Pauwels",,,way
 "Rue Henri Tombeur",,,way
 "Rue Hubert Lebon",,,way
-"Rue Johannes Gutenberg",,,way
 "Rue Joseph Luns",,,way
 "Rue Joseph Wauters",,,way
 "Rue Lagasse",,,way
-"Rue Laurent Delvaux",,,way
 "Rue Les Bois",,,way
 "Rue Longue Bouteille",,,way
 "Rue Lossignol",,,way
-"Rue Louis Braille",,,way
 "Rue Lucien Gilbert",,,way
 "Rue Malgré Madame",,,relation
 "Rue Marlet",,,way
