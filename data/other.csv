@@ -46,6 +46,7 @@ name,source,gender,wikidata,type
 "Allée du Coulombier",,,,way
 "Allée du Franc Etau",,,,way
 "Allée du Jaquemart",,,,way
+"Allée du Long Fétu",,,,way
 "Allée du Long Fétue",,,,relation
 "Allée du Ploche",,,,way
 "Allée du Posty",,,,way
@@ -56,7 +57,6 @@ name,source,gender,wikidata,type
 "Avenue Jules Mathieu",,,,way
 "Avenue Léon Jeuniaux",,,,way
 "Avenue Paul-Henri Spaak",,,,way
-"Avenue Robert Schuman",,,,way
 "Avenue Trigodet",,,,way
 "Avenue d'Allemagne",,,,way
 "Avenue d'Italie",,,,way
@@ -229,11 +229,9 @@ Grand'Route,,,,way
 "Rue François Lebon",,,,way
 "Rue George Williame",,,,way
 "Rue Gillard-Heppe",,,,way
-"Rue Henri Pauwels",,,,way
 "Rue Henri Tombeur",,,,way
 "Rue Hubert Lebon",,,,way
-"Rue Joseph Luns",,,,way
-"Rue Joseph Wauters",,,,way
+"Rue Labiwe",,,,way
 "Rue Lagasse",,,,way
 "Rue Les Bois",,,,way
 "Rue Longue Bouteille",,,,way
