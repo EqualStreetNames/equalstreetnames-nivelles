@@ -64,7 +64,7 @@ name,source,gender,wikidata,type
 "Avenue de Vaillampont",,,,way
 "Avenue de l'Aviation",,,,way
 "Avenue de l'Europe",,,,way
-"Avenue de la Gare",,,,relation
+"Avenue de la Gare",,,,relation+way
 "Avenue de la Liberté",,,,relation
 "Avenue de la Tour de Guet",,,,way
 "Avenue des Pays-Bas",,,,way
@@ -74,7 +74,7 @@ name,source,gender,wikidata,type
 "Boulevard de la Batterie",,,,way
 "Boulevard de la Dodaine",,,,way
 "Boulevard de la Fleur de lys",,,,way
-"Boulevard de la Résistance",,,,relation
+"Boulevard de la Résistance",,,,relation+way
 "Boulevard des Arbalétriers",,,,way
 "Boulevard des Archers",,,,way
 "Chaussée de Braine-le-Comte",,,,way
@@ -149,7 +149,6 @@ name,source,gender,wikidata,type
 "Chemin du Mont-Saint-Roch",,,,way
 "Chemin du Petit Gendarme",,,,way
 "Chemin du Rat de Bois",,,,way
-"Chemin du Trou de Bois",,,,way
 "Chemin du Trou du Bois",,,,way
 "Chemin du grand Bailli",,,,way
 "Clos Aglane de Nivelles",,,,way
@@ -235,7 +234,7 @@ Grand'Route,,,,way
 "Rue Longue Bouteille",,,,way
 "Rue Lossignol",,,,way
 "Rue Lucien Gilbert",,,,way
-"Rue Malgré Madame",,,,relation
+"Rue Malgré Madame",,,,relation+way
 "Rue Marlet",,,,way
 "Rue Maubille",,,,relation
 "Rue Monseigneur Cardijn",,,,way
