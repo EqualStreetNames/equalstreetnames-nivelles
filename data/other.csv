@@ -14,7 +14,6 @@ name,source,gender,wikidata,type
 "Allée Ursmar Scohy",,,,way
 "Allée Willy Chauffoureau",,,,way
 "Allée de Warchimont",,,,way
-"Allée de l'Ancienne Barrière",,,,way
 "Allée de la Cense du Colombier",,,,way
 "Allée de la Ferme Detry",,,,way
 "Allée de la Fragne",,,,way
@@ -175,7 +174,7 @@ Grand'Route,,,,way
 "Impasse du Baiwy",,,,way
 "Impasse du Jardin Rompu",,,,way
 "La Carolorégienne",,,,way
-"La Rochelle (Faubourg de Mons)",,,,way
+"La Rochelle",,,,way
 "Les 24 Apas",,,,way
 "Les Heures Claires",,,,way
 "Les Huttes",,,,way
@@ -187,6 +186,7 @@ Grand'Route,,,,way
 "Place Peduzzi",,,,way
 "Place de Baulers",,,,way
 "Place de Thines",,,,way
+"Place de l'Abreuvoir",,,,way
 "Place des Déportés",,,,way
 "Place du Souvenir",,,,way
 "Pont endommagé - Réparations prévues prochainement",,,,way
@@ -236,7 +236,7 @@ Grand'Route,,,,way
 "Rue Lucien Gilbert",,,,way
 "Rue Malgré Madame",,,,relation+way
 "Rue Marlet",,,,way
-"Rue Maubille",,,,relation
+"Rue Maubille",,,,relation+way
 "Rue Monseigneur Cardijn",,,,way
 "Rue Montagne du Parc",,,,way
 "Rue Neuve",,,,way
@@ -330,7 +330,6 @@ Grand'Route,,,,way
 "Rue de la Science",,,,way
 "Rue de la Tournette",,,,way
 "Rue de la Violette",,,,way
-"Rue de la procession",,,,way
 "Rue des Alizés",,,,way
 "Rue des Arts",,,,way
 "Rue des Brasseurs",,,,way
@@ -405,18 +404,17 @@ Grand'Route,,,,way
 "Rue du Wichet",,,,way
 "Rue du Zéphyr",,,,way
 "Rue du moulin au bleu",,,,way
-"Rue vas-y-vir",,,,way
 "Sentier 21",,,,way
 "Sentier 32",,,,way
 "Sentier de la brique",,,,way
 "Sentier des Communes",,,,way
 "Sentier des Ecoliers",,,,way
 "Sentier du Bois d""en Bas",,,,way
-"Sentier n° 170",,,,way
 "Sentier n°42",,,,way
 "Square Ferdinand Delcroix",,,,way
 "Square de l'Yser",,,,way
 "Square des Nations Unies",,,,relation
+Vas-y-Vir,,,,way
 "Venelle Saint-Roch",,,,way
 "Venelle des Coquelets",,,,way
 "Venelle le Phare",,,,way
