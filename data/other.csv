@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+"Square Gabrielle Petit",wikidata,,Q468263,way
 "Aire d'Orival Total Nivelles",,,,way
 "Allée Albert Caupain",,,,way
 "Allée Bonaparte",,,,way
@@ -167,7 +168,6 @@ Grand'Route,,,,way
 "Hameau du Bois du Sépulchre",,,,way
 "Impasse Comptoir",,,,way
 "Impasse de la Grosse Pompe",,,,way
-"Impasse de la Madeleine",,,,way
 "Impasse de la Porte Rouge",,,,way
 "Impasse des Conceptionnistes",,,,way
 "Impasse du Baiwy",,,,way
@@ -194,10 +194,6 @@ Grand'Route,,,,way
 "RAVeL 3 - Canal Charleroi-Bruxelles historique",,,,way
 "RAVeL L141",,,,way
 "RAVeL Ligne 141",,,,way
-"RUE DES COUPICHES",,,,way
-"RUE DES MARCOTES",,,,way
-"RUE DES POPLINÈTES",,,,way
-"RUE DES TASSONS",,,,way
 "Route de Lillois",,,,way
 "Rue Abbé Michel Renard",,,,way
 "Rue Altiero Spinelli",,,,way
@@ -233,6 +229,7 @@ Grand'Route,,,,way
 "Rue Gillard-Heppe",,,,way
 "Rue Henri Tombeur",,,,way
 "Rue Hubert Lebon",,,,way
+"Rue Labiwe",,,,way
 "Rue Lagasse",,,,way
 "Rue Les Bois",,,,way
 "Rue Longue Bouteille",,,,way
@@ -342,6 +339,7 @@ Grand'Route,,,,way
 "Rue des Combattants",,,,way
 "Rue des Conceptionnistes",,,,way
 "Rue des Coquelets",,,,way
+"Rue des Coupiches",,,,way
 "Rue des Déportés",,,,way
 "Rue des Deux Sociétés Nationales",,,,relation
 "Rue des Frères Grislein",,,,way
@@ -351,14 +349,17 @@ Grand'Route,,,,way
 "Rue des Hirondelles",,,,way
 "Rue des Juifs",,,,way
 "Rue des Lilas",,,,relation
+"Rue des Marcotes",,,,way
 "Rue des Métiers",,,,way
 "Rue des Palettes",,,,way
 "Rue des Pêcheurs",,,,way
+"Rue des Poplinettes",,,,way
 "Rue des Poulées",,,,way
 "Rue des Prêtres",,,,way
 "Rue des Récollets",,,,way
 "Rue des Roitelets",,,,way
 "Rue des Saules",,,,way
+"Rue des Tassons",,,,way
 "Rue des Vertes Haies",,,,way
 "Rue des Vieilles Prisons",,,,way
 "Rue des écoles",,,,way
