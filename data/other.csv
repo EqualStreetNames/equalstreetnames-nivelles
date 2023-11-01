@@ -50,6 +50,7 @@ name,source,gender,wikidata,type
 "Allée du Posty",,,,way
 "Allée du Sablon",,,,way
 "Allée du Spinoit",,,,way
+"Ancien pont vicinal",,,,way
 "Avenue Abbé Goffin",,,,way
 "Avenue Albert et Elisabeth",,,,way
 "Avenue Jules Mathieu",,,,way
@@ -69,6 +70,7 @@ name,source,gender,wikidata,type
 "Avenue des Pays-Bas",,,,way
 "Avenue du Centenaire",,,,way
 "Avenue du Monde",,,,way
+"Bief de la Samme",,,,way
 "Boulevard Charles Vanpée",,,,way
 "Boulevard de la Batterie",,,,way
 "Boulevard de la Dodaine",,,,way
@@ -76,11 +78,13 @@ name,source,gender,wikidata,type
 "Boulevard de la Résistance",,,,relation+way
 "Boulevard des Arbalétriers",,,,way
 "Boulevard des Archers",,,,way
+"Chaussée de Bornival",,,,way
 "Chaussée de Braine-le-Comte",,,,way
 "Chaussée de Bruxelles",,,,way
 "Chaussée de Charleroi",,,,way
 "Chaussée de Hal",,,,way
 "Chaussée de Mons",,,,way
+"Chaussée de Monstreux",,,,way
 "Chaussée de Namur",,,,way
 "Chaussée de Nivelles",,,,way
 "Chaussée de Soignies",,,,way
@@ -190,7 +194,6 @@ Grand'Route,,,,way
 "Pont endommagé - Réparations prévues prochainement",,,,way
 "PreRAVEL Ligne 141",,,,way
 "RAVEL Ligne 141",,,,way
-"RAVeL 3 - Canal Charleroi-Bruxelles historique",,,,way
 "RAVeL L141",,,,way
 "RAVeL Ligne 141",,,,way
 "Route de Lillois",,,,way
@@ -386,6 +389,7 @@ Grand'Route,,,,way
 "Rue du Happart",,,,way
 "Rue du Haubergeon",,,,way
 "Rue du Levant",,,,way
+"Rue du Marais",,,,way
 "Rue du Merly",,,,way
 "Rue du Messager d'Anvers",,,,way
 "Rue du Mistral",,,,way
