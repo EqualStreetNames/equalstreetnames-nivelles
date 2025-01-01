@@ -23,21 +23,21 @@ name,source,gender,wikidata,type
 "Allée de la Tramontane",,,,way
 "Allée des Alouettes",,,,way
 "Allée des Aubépines",,,,way
-"Allée des Bleuets",,,,relation
+"Allée des Bleuets",,,,way
 "Allée des Bouvreuils",,,,way
-"Allée des Chambourées",,,,relation
-"Allée des Coquelicots",,,,relation
+"Allée des Chambourées",,,,way
+"Allée des Coquelicots",,,,way
 "Allée des Couterelles",,,,way
-"Allée des Eglantines",,,,relation
+"Allée des Eglantines",,,,way
 "Allée des Grenadiers",,,,way
 "Allée des Grives",,,,way
-"Allée des Liserons",,,,relation
+"Allée des Liserons",,,,way
 "Allée des Merles",,,,way
 "Allée des Mésanges",,,,way
-"Allée des Muguets",,,,relation
+"Allée des Muguets",,,,way
 "Allée des Pinsons",,,,way
-"Allée des Primevères",,,,relation
-"Allée des Roses",,,,relation
+"Allée des Primevères",,,,way
+"Allée des Roses",,,,way
 "Allée des Rouges-Gorges",,,,way
 "Allée des Sources",,,,way
 "Allée des Trois Tilleuls",,,,relation
@@ -58,12 +58,14 @@ name,source,gender,wikidata,type
 "Avenue Paul-Henri Spaak",,,,way
 "Avenue Trigodet",,,,way
 "Avenue d'Allemagne",,,,way
+"Avenue d'Espagne",,,,way
 "Avenue d'Italie",,,,way
 "Avenue de Burlet",,,,way
 "Avenue de France",,,,way
 "Avenue de Vaillampont",,,,way
 "Avenue de l'Aviation",,,,way
 "Avenue de l'Europe",,,,way
+"Avenue de la Galvanisation",,,,way
 "Avenue de la Gare",,,,relation+way
 "Avenue de la Liberté",,,,relation
 "Avenue de la Tour de Guet",,,,way
@@ -75,9 +77,10 @@ name,source,gender,wikidata,type
 "Boulevard de la Batterie",,,,way
 "Boulevard de la Dodaine",,,,way
 "Boulevard de la Fleur de lys",,,,way
-"Boulevard de la Résistance",,,,relation+way
+"Boulevard de la Résistance",,,,way
 "Boulevard des Arbalétriers",,,,way
 "Boulevard des Archers",,,,way
+"Champ Maret",,,,way
 "Chaussée de Bornival",,,,way
 "Chaussée de Braine-le-Comte",,,,way
 "Chaussée de Bruxelles",,,,way
@@ -190,6 +193,8 @@ Grand'Route,,,,way
 "Place de Thines",,,,way
 "Place de l'Abreuvoir",,,,way
 "Place des Déportés",,,,way
+"Place du Canestia",,,,way
+"Place du Clair Ménage",,,,way
 "Place du Souvenir",,,,way
 "Pont endommagé - Réparations prévues prochainement",,,,way
 "PreRAVEL Ligne 141",,,,way
@@ -287,6 +292,7 @@ Grand'Route,,,,way
 "Rue de Mons",,,,way
 "Rue de Monstreux",,,,way
 "Rue de Namur",,,,way
+"Rue de Nicosie",,,,way
 "Rue de Nivelles",,,,way
 "Rue de Paris",,,,way
 "Rue de Plancenoit",,,,way
@@ -346,7 +352,7 @@ Grand'Route,,,,way
 "Rue des Coquelets",,,,way
 "Rue des Coupiches",,,,way
 "Rue des Déportés",,,,way
-"Rue des Deux Sociétés Nationales",,,,relation
+"Rue des Deux Sociétés Nationales",,,,way
 "Rue des Fouyons",,,,way
 "Rue des Frères Grislein",,,,way
 "Rue des Frères Pierseaux",,,,way
