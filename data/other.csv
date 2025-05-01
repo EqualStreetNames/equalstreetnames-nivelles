@@ -4,19 +4,19 @@ name,source,gender,wikidata,type
 "Allée Bonaparte",,,,way
 "Allée Fonds Avaux",,,,way
 "Allée Jack Gondry",,,,way
-"Allée Le Valois",,,,relation
+"Allée Le-Valois",,,,way
 "Allée Marcel Ladrière",,,,way
 "Allée Marie Binet Leton",,,,way
-"Allée Mont Cheval",,,,way
 "Allée Moulin des Prés",,,,way
 "Allée Pré Lorette",,,,way
 "Allée Pré au Lait",,,,way
 "Allée Ursmar Scohy",,,,way
-"Allée Willy Chauffoureau",,,,way
+"Allée Willy Chaufoureau",,,,way
 "Allée de Warchimont",,,,way
 "Allée de la Cense du Colombier",,,,way
 "Allée de la Ferme Detry",,,,way
 "Allée de la Fragne",,,,way
+"Allée de la Longue Haie",,,,way
 "Allée de la Relevée",,,,way
 "Allée de la Tour Renard",,,,way
 "Allée de la Tourette",,,,way
@@ -46,6 +46,7 @@ name,source,gender,wikidata,type
 "Allée du Franc Étau",,,,way
 "Allée du Jaquemart",,,,way
 "Allée du Long Fétue",,,,relation
+"Allée du Mont Cheval",,,,way
 "Allée du Ploche",,,,way
 "Allée du Posty",,,,way
 "Allée du Sablon",,,,way
@@ -102,7 +103,6 @@ name,source,gender,wikidata,type
 "Chemin Hiernoulet",,,,way
 "Chemin Laid Patard",,,,way
 "Chemin Maxile",,,,way
-"Chemin Pécrot",,,,way
 "Chemin Royal",,,,way
 "Chemin Saint-Pierre",,,,way
 "Chemin Sainte-Anne",,,,way
@@ -113,7 +113,7 @@ name,source,gender,wikidata,type
 "Chemin de Bornival",,,,way
 "Chemin de Fauquez",,,,way
 "Chemin de Feluy",,,,way
-"Chemin de Fontaine-l'Evêque",,,,way
+"Chemin de Fontaine-l'Évêque",,,,way
 "Chemin de Grambais",,,,way
 "Chemin de Grambais à Bornival",,,,way
 "Chemin de Grand'Peine",,,,way
@@ -152,6 +152,7 @@ name,source,gender,wikidata,type
 "Chemin du Hulencourt",,,,way
 "Chemin du Malgras",,,,way
 "Chemin du Mont-Saint-Roch",,,,way
+"Chemin du Pécrot",,,,way
 "Chemin du Petit Gendarme",,,,way
 "Chemin du Rat de Bois",,,,way
 "Chemin du Trou du Bois",,,,way
@@ -201,6 +202,7 @@ Grand'Route,,,,way
 "RAVEL Ligne 141",,,,way
 "RAVeL L141",,,,way
 "RAVeL Ligne 141",,,,way
+"Rond-point du Shopping",,,,way
 "Route de Lillois",,,,way
 "Rue Abbé Michel Renard",,,,way
 "Rue Albert Einstein",,,,way
