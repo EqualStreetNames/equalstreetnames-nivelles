@@ -5,14 +5,16 @@ name,source,gender,wikidata,type
 "Allée Fonds Avaux",,,,way
 "Allée Jack Gondry",,,,way
 "Allée Le-Valois",,,,way
+"Allée Lucien Glibert",,,,way
 "Allée Marcel Ladrière",,,,way
-"Allée Marie Binet Leton",,,,way
+"Allée Marie Binet-Leton",,,,way
 "Allée Moulin des Prés",,,,way
 "Allée Pré Lorette",,,,way
 "Allée Pré au Lait",,,,way
 "Allée Ursmar Scohy",,,,way
 "Allée Willy Chaufoureau",,,,way
 "Allée de Warchimont",,,,way
+"Allée de l'Ancienne Barrière",,,,way
 "Allée de la Cense du Colombier",,,,way
 "Allée de la Ferme Detry",,,,way
 "Allée de la Fragne",,,,way
@@ -137,7 +139,6 @@ name,source,gender,wikidata,type
 "Chemin de la Guenette",,,,way
 "Chemin de la Paix",,,,way
 "Chemin de la Procession",,,,way
-"Chemin de la Technique",,,,way
 "Chemin de la Vieille Cour",,,,way
 "Chemin des Coutures",,,,way
 "Chemin des Hayons",,,,way
@@ -157,6 +158,7 @@ name,source,gender,wikidata,type
 "Chemin du Petit Gendarme",,,,way
 "Chemin du Rat de Bois",,,,way
 "Chemin du Trou du Bois",,,,way
+"Chemin du Vert Baty",,,,way
 "Chemin du grand Bailli",,,,way
 "Clos Aglane de Nivelles",,,,way
 "Clos Sainte-Gertrude",,,,way
@@ -176,6 +178,7 @@ Grand'Route,,,,way
 "Hameau du Bois du Sépulchre",,,,way
 "Impasse Comptoir",,,,way
 "Impasse de la Grosse Pompe",,,,way
+"Impasse de la Guenette",,,,way
 "Impasse de la Porte Rouge",,,,way
 "Impasse des Conceptionnistes",,,,way
 "Impasse du Baiwy",,,,way
@@ -186,7 +189,7 @@ Grand'Route,,,,way
 "Les Heures Claires",,,,way
 "Les Huttes",,,,way
 "Parvis Notre-Dame",,,,way
-"Place Albert 1er",,,,way
+"Place Albert Ier",,,,way
 "Place Émile de Lalieux",,,,way
 "Place Jean Rey",,,,way
 "Place Lambert Schiffelers",,,,way
@@ -221,6 +224,7 @@ Grand'Route,,,,way
 "Rue Cardinal Mercier",,,,way
 "Rue Castelain",,,,way
 "Rue Chambille",,,,way
+"Rue Chemin Royal",,,,way
 "Rue Cité Jardin",,,,way
 "Rue Clarisse",,,,way
 "Rue Coparty",,,,way
@@ -236,10 +240,9 @@ Grand'Route,,,,way
 "Rue Ferdinand Delcroix",,,,way
 "Rue Fidèle Lebon",,,,way
 "Rue Fief de Rognon",,,,way
-"Rue Fontaine Michaux",,,,way
 "Rue François Lebon",,,,way
-"Rue George Williame",,,,way
-"Rue Gillard-Heppe",,,,way
+"Rue Georges Willame",,,,way
+"Rue Gillard Heppe",,,,way
 "Rue Henri Tombeur",,,,way
 "Rue Hubert Lebon",,,,way
 "Rue Labiwe",,,,way
@@ -247,7 +250,6 @@ Grand'Route,,,,way
 "Rue Les Bois",,,,way
 "Rue Longue Bouteille",,,,way
 "Rue Lossignol",,,,way
-"Rue Lucien Gilbert",,,,way
 "Rue Malgré Madame",,,,way
 "Rue Marlet",,,,way
 "Rue Maubille",,,,relation+way
@@ -338,12 +340,14 @@ Grand'Route,,,,way
 "Rue de la Croix de Malte",,,,way
 "Rue de la Ferme du Chapitre",,,,way
 "Rue de la Fonderie",,,,way
+"Rue de la Fontaine Michaux",,,,way
 "Rue de la Maillebotte",,,,way
 "Rue de la Maîtrise",,,,way
 "Rue de la Procession",,,,way
 "Rue de la Recherche",,,,way
 "Rue de la Religion",,,,way
 "Rue de la Science",,,,way
+"Rue de la Technique",,,,way
 "Rue de la Tournette",,,,way
 "Rue de la Violette",,,,way
 "Rue des Agaces",,,,way
@@ -359,6 +363,7 @@ Grand'Route,,,,way
 "Rue des Coupiches",,,,way
 "Rue des Déportés",,,,way
 "Rue des Deux Sociétés Nationales",,,,way
+"Rue des Écoles",,,,way
 "Rue des Fouyons",,,,way
 "Rue des Frères Grislein",,,,way
 "Rue des Frères Pierseaux",,,,way
@@ -381,7 +386,6 @@ Grand'Route,,,,way
 "Rue des Tassons",,,,way
 "Rue des Vertes Haies",,,,way
 "Rue des Vieilles Prisons",,,,way
-"Rue des écoles",,,,way
 "Rue du Béguinage",,,,way
 "Rue du Bosquet",,,,way
 "Rue du Caurus",,,,way
@@ -420,7 +424,6 @@ Grand'Route,,,,way
 "Rue du Septentrion",,,,way
 "Rue du Travail",,,,way
 "Rue du Trichot",,,,way
-"Rue du Vert Baty",,,,way
 "Rue du Vert Chasseur",,,,way
 "Rue du Vieux Bassin",,,,way
 "Rue du Village",,,,way
@@ -446,6 +449,7 @@ Vas-y-Vir,,,,way
 "Venelle des Coquelets",,,,way
 "Venelle le Phare",,,,way
 "Vert Chemin",,,,way
+"Vieille Cour",,,,way
 "Vieux Chemin de Braine-le-Comte",,,,way
 "Vieux Chemin de Seneffe",,,,way
 "Vieux Chemin de Soignies",,,,way
