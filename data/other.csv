@@ -103,7 +103,6 @@ name,source,gender,wikidata,type
 "Chemin Fourneau",,,,way
 "Chemin Haneliquet",,,,way
 "Chemin Hiernoulet",,,,way
-"Chemin Laid Patard",,,,way
 "Chemin Maxile",,,,way
 "Chemin Montifaut",,,,way
 "Chemin Royal",,,,way
@@ -152,6 +151,7 @@ name,source,gender,wikidata,type
 "Chemin du Grand Bailli",,,,way
 "Chemin du Haut Puison",,,,way
 "Chemin du Hulencourt",,,,way
+"Chemin du Laid Patard",,,,way
 "Chemin du Malgras",,,,way
 "Chemin du Mont-Saint-Roch",,,,way
 "Chemin du Pécrot",,,,way
@@ -243,6 +243,7 @@ Grand'Route,,,,way
 "Rue François Lebon",,,,way
 "Rue Georges Willame",,,,way
 "Rue Gillard Heppe",,,,way
+"Rue Haneliquet",,,,way
 "Rue Henri Tombeur",,,,way
 "Rue Hubert Lebon",,,,way
 "Rue Labiwe",,,,way
