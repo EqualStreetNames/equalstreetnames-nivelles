@@ -2,6 +2,7 @@ name,source,gender,wikidata,type
 "Aire d'Orival Total Nivelles",,,,way
 "Allée Albert Caupain",,,,way
 "Allée Bonaparte",,,,way
+"Allée Broc à l'Aye",,,,way
 "Allée Fonds Avaux",,,,way
 "Allée Jack Gondry",,,,way
 "Allée Le-Valois",,,,way
@@ -11,6 +12,7 @@ name,source,gender,wikidata,type
 "Allée Moulin des Prés",,,,way
 "Allée Pré Lorette",,,,way
 "Allée Pré au Lait",,,,way
+"Allée Rif Tout d'ju",,,,way
 "Allée Ursmar Scohy",,,,way
 "Allée Willy Chaufoureau",,,,way
 "Allée de Warchimont",,,,way
@@ -43,7 +45,6 @@ name,source,gender,wikidata,type
 "Allée des Rouges-Gorges",,,,way
 "Allée des Sources",,,,way
 "Allée des Trois Tilleuls",,,,way
-"Allée du Broc-a-l'Aye",,,,way
 "Allée du Coulombier",,,,way
 "Allée du Franc Étau",,,,way
 "Allée du Jaquemart",,,,way
@@ -163,7 +164,10 @@ name,source,gender,wikidata,type
 "Clos Aglane de Nivelles",,,,way
 "Clos Sainte-Gertrude",,,,way
 "Clos Tillaine",,,,way
+"Clos de la Barrière",,,,way
+"Clos de la Chapelle",,,,way
 "Clos des Pommiers",,,,way
+"Clos du Bonnier Cornu",,,,way
 "Clos du Moulin de Godron",,,,way
 "Contournement Sud",,,,way
 "Faubourg de Bruxelles",,,,way
@@ -331,7 +335,7 @@ Grand'Route,,,,way
 "Rue de l'Euros",,,,way
 "Rue de l'Évêché",,,,way
 "Rue de l'Industrie",,,,way
-"Rue de l'inrad'ji",,,,way
+"Rue de l'Inrad'ji",,,,way
 "Rue de la Brique",,,,way
 "Rue de la Briqueterie",,,,way
 "Rue de la Brise",,,,way
@@ -420,7 +424,6 @@ Grand'Route,,,,way
 "Rue du Pont Gotissart",,,,way
 "Rue du Progrès",,,,way
 "Rue du Ri des Corbeaux",,,,way
-"Rue du Rif tout d'ju",,,,way
 "Rue du Septentrion",,,,way
 "Rue du Travail",,,,way
 "Rue du Trichot",,,,way
